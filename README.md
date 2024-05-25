@@ -10,7 +10,7 @@ For more details read the project documentation.
 
 # Installation and Setup
 
-Clone the repository\n
+Clone the repository/n
 git clone https://github.com/LukaZuljevic/NBA_baza_podataka.git
 
 Run this file to create the tables
