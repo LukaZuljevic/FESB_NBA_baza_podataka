@@ -5,4 +5,4 @@ The goal of this project is to gain experience with database design and implemen
 
 
 
-#Installation and Setup
+# Installation and Setup
