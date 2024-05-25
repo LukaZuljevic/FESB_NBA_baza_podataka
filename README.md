@@ -22,6 +22,6 @@ NBA_liga.sql
 
 InsertData.sql
 
-**Queries- **
+**Queries**
 
 In progress...
