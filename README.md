@@ -10,14 +10,18 @@ For more details read the project documentation.
 
 # Installation and Setup
 
-Clone the repository/n
+Clone the repository
+
 git clone https://github.com/LukaZuljevic/NBA_baza_podataka.git
 
 Run this file to create the tables
+
 NBA_liga.sql
 
 Run this file to insert the data
+
 InsertData.sql
 
 Queries- 
+
 In progress...
