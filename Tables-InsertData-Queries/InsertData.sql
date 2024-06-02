@@ -61,6 +61,13 @@ Values
 (1, 5, 'Gosti', 99),
 (2, 2, 'Domaci', 120),
 (2, 3, 'Gosti', 132);
+(3, 2, 'Domaci', 143),
+(3, 5, 'Gosti', 123),
+(4, 3, 'Domaci', 110),
+(4, 4, 'Gosti', 89),
+(5, 4, 'Domaci', 90),
+(5, 1, 'Gosti', 99);
+
 
 INSERT INTO UtakmicaIgraciStatistika(id_Utakmica, OIB_Igrac, id_statistika)
 Values
